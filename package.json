@@ -1,0 +1,19 @@
+{
+  "name": "simple-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "berlysia",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "http-proxy": "^1.17.0",
+    "mri": "^1.1.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.2"
+  }
+}
